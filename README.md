@@ -1,3 +1,21 @@
+# BIOMD0000000092: Fuentes2005_ZymogenActivation
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000092.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000092.git@20140916`
+
+
+# Model Notes
 
 
 .
@@ -33,4 +51,5 @@ This model originates from BioModels Database: A Database of Annotated
 Published Models. It is copyright (c) 2005-2006 The BioModels Team.  
 For more information see the [terms of
 use](http://www.ebi.ac.uk/biomodels/legal.html) .
+
 
